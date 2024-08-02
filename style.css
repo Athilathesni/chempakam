@@ -18,3 +18,58 @@
     cursor: pointer;
 
   }
+  /* 2ndpage */
+  .d2{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto;
+    overflow-x:scroll;
+}
+.d3{
+    color: gray;
+}
+.button1{
+    background-color:white; 
+    border: none;
+    color:rgb(128, 123, 123);
+    padding: 10px 38px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline-color: rgb(36, 35, 35);
+    outline-style: solid;
+    outline-width: 1px;
+    text-align: center;
+  }
+  /* 3drpage */
+  .na1{
+    color: gray;
+  }
+  .d4{
+    color: rgb(179, 163, 163);
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+        overflow-y:scroll;
+  }
+  .button2{
+    background-color:whitesmoke; 
+    border: none;
+    color:rgb(128, 123, 123);
+    padding: 10px 18px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+    outline-color: rgb(36, 35, 35);
+    outline-style: solid;
+    outline-width: 1px;
+  }
+  .n1{
+    color: black;
+  }
+  /* 4thpage */
+  
