@@ -1,3 +1,4 @@
+
 .s1{
     position: absolute;
     left: 600px;
@@ -72,4 +73,13 @@
     color: black;
   }
   /* 4thpage */
+  footer {
+    padding: 3px;
+    text-align: center;
+    background-color: black;
+    color: rgb(10, 9, 9);
+  }
+  .gt{
+    color: aliceblue;
+  }
   
